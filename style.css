@@ -10,6 +10,7 @@ body {
     height: auto;
     width: 100%;
     overflow-x: hidden;
+    overflow-y: auto;
     margin: 0;
     padding: 0;
     background-image: linear-gradient(to right,#859398, #859398);
